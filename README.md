@@ -5,6 +5,6 @@ via their tweet count using the Twitter API.
 ## Languages
 HTML, CSS, JavaScript, Firebase, webpack.
 
-Link to preview: https://github.com/Joshua-123-ansah/software-engineering-project.git
+Link to preview: https://thatguycalledcoder.github.io/NFT-Analytics/
 
 PS: You can skip the login by adding home.html to the link.
